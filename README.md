@@ -1,5 +1,5 @@
 
-<h1 align="left">A passionate React-Frontend Developer from India</h3>
+<h1 align="left">A passionate React-Frontend Developer</h3>
 
 # Full Responsive App
 <h3 align="left">Live Demo:</h3> https://expense-tracker-81e1d.web.app/
