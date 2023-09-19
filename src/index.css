@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+html {
+  height: 100%;
+  background-color: #606c88;
+  background: linear-gradient(to bottom, #3f4c6b, #606c88);
+}
+body {
+  height: auto;
+  background-color: #606c88;
+  background: linear-gradient(to bottom, #3f4c6b, #606c88);
+}
